@@ -1,0 +1,3 @@
+tab_spaces = 2
+trailing_semicolon = true
+format_strings = true

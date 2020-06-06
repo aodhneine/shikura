@@ -1,0 +1,11 @@
+[package]
+name = "shikura"
+version = "0.1.0"
+authors = ["aodhneine <aodhneine@protonmail.ch>"]
+edition = "2018"
+
+[dependencies]
+
+[dependencies.async-std]
+version = "1.6.0"
+features = ["unstable"]
